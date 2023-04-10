@@ -1,0 +1,93 @@
+{  "mockData" : [
+  {
+    "id": 1,
+    "JournalID": "Jon Snow",
+    "JounalDate": "jonsnow@gmail.com",
+    "Status": 35,
+    "Notes": "(665)121-5454",
+    "Amount": "admin",
+    "CreatedBy": "admin",
+    "SubmittedBy": "admin",
+    "JournalType": "admin",
+    "Attachments": "admin",
+    "Branch": "admin"
+  },
+    {
+    "id": 2,
+    "JournalID": "Jon Snow",
+    "JounalDate": "jonsnow@gmail.com",
+    "Status": 35,
+    "Notes": "(665)121-5454",
+    "Amount": "admin",
+    "CreatedBy": "admin",
+    "SubmittedBy": "admin",
+    "JournalType": "admin",
+    "Attachments": "admin",
+    "Branch": "admin"
+  },
+    {
+    "id": 3,
+    "JournalID": "Jon Snow",
+    "JounalDate": "jonsnow@gmail.com",
+    "Status": 35,
+    "Notes": "(665)121-5454",
+    "Amount": "admin",
+    "CreatedBy": "admin",
+    "SubmittedBy": "admin",
+    "JournalType": "admin",
+    "Attachments": "admin",
+    "Branch": "admin"
+  },
+    {
+    "id": 4,
+    "JournalID": "Jon Snow",
+    "JounalDate": "jonsnow@gmail.com",
+    "Status": 35,
+    "Notes": "(665)121-5454",
+    "Amount": "admin",
+    "CreatedBy": "admin",
+    "SubmittedBy": "admin",
+    "JournalType": "admin",
+    "Attachments": "admin",
+    "Branch": "admin"
+  },
+    {
+    "id": 5,
+    "JournalID": "Jon Snow",
+    "JounalDate": "jonsnow@gmail.com",
+    "Status": 35,
+    "Notes": "(665)121-5454",
+    "Amount": "admin",
+    "CreatedBy": "admin",
+    "SubmittedBy": "admin",
+    "JournalType": "admin",
+    "Attachments": "admin",
+    "Branch": "admin"
+  }
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
